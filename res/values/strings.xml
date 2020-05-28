@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather</string>
+    <string name="hello_world">Weather!</string>
+    <string name="title_activity_add_location">AddLocationActivity</string>
+    <string name="title_activity_location_list">LocationList</string>
+
+</resources>
